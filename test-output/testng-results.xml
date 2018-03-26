@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26889" started-at="2018-03-26T03:27:04Z" finished-at="2018-03-26T03:27:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26889" started-at="2018-03-26T03:27:04Z" finished-at="2018-03-26T03:27:30Z">
+      <class name="com.realtor.tests.ItemDetailsTestPlan">
+        <test-method status="PASS" signature="testPrice()[pri:0, instance:com.realtor.tests.ItemDetailsTestPlan@25618e91]" name="testPrice" duration-ms="26876" started-at="2018-03-25T20:27:04Z" finished-at="2018-03-25T20:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrice -->
+      </class> <!-- com.realtor.tests.ItemDetailsTestPlan -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

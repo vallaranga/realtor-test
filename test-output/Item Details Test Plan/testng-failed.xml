@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Item Details Test Plan]">
+  <test name="Verify Price test(failed)">
+    <classes>
+      <class name="com.realtor.tests.ItemDetailsTestPlan">
+        <methods>
+          <include name="afterClass"/>
+          <include name="testPrice"/>
+        </methods>
+      </class> <!-- com.realtor.tests.ItemDetailsTestPlan -->
+    </classes>
+  </test> <!-- Verify Price test(failed) -->
+</suite> <!-- Failed suite [Item Details Test Plan] -->
