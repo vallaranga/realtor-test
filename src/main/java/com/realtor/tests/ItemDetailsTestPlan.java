@@ -9,7 +9,7 @@ import com.realtor.pages.HomePage;
 import com.realtor.pages.ListingsPage;
 import com.realtor.pages.ListingDetailsPage;
 
-public class ItemDetailsTestPlan {
+public class ListingDetailsTestPlan {
 
 	// Instantiations and Object creations for required pages
 	WebDriver driver;
