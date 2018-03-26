@@ -26,5 +26,7 @@ This Repository contains automation code to verify the listings price displayed.
 5. To run the test, we need to open the testNG.xml that is present in src/main/resources/com/realtor/testNG and run it through testNG. The order in which the test are executed is as follows:
 
 Run the TestNG.xml(the test class path is mentioned in the file) ==> it will then start running any tests present in the class 
+_______________________________________________________________
 
+Any further developments in this repository need to follow the same structure by keeping all the UI page locators, Methods/flows/actions, testNG files, resources in their respectives folders. 
  
